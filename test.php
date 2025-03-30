@@ -1,7 +1,7 @@
 <?php
 
 
-register_menu("Test", true, "system_info", 'SETTINGS', '');
+register_menu("Test", true, "test", 'SETTINGS', '');
 
 
 
